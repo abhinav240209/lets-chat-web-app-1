@@ -1,0 +1,30 @@
+        #logo {
+            width: 125px;
+            height: 150px;
+        }
+        
+        body {
+            text-align: center;
+        }
+        
+        #welcome {
+            background-image: linear-gradient(#e107f5, #d895de, #e3a7e8);
+            height: 800px;
+            width: 1350px;
+        }
+        
+    
+        
+        #name {
+            font-family: "Lucida Console", "Courier New", monospace;
+        }
+        
+        p {
+            font-family: "Times New Roman", Times, serif;
+            font-size: 25px;
+        }
+        
+        h4 {
+            font-family: "Lucida Console", "Courier New", monospace;
+            margin-right: 1200px;
+        }
